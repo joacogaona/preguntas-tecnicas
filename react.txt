@@ -1,0 +1,43 @@
+React
+
+Que soluciona React?
+Diferencias entre virtual DOM y DOM?
+Cómo se ejecutan eventos en React?
+Para que usamos el useState? Que es el estado de un componente?
+Como puedo compartir un estado dentro de la aplicación?
+Que problema soluciona Redux, u otro state management, y cómo funciona? 
+Como replico con hooks los distintos estados del ciclo de vida de un componente? (useEffect)
+Que pasa si al useEffect no le paso un array como segundo argumento?
+Para que sirven useMemo y useCallback?
+Para que sirve el useContext?
+Para que sirven los custom hook?
+Que pasa cuando hago un build en React? (se transpila el jsx y se crea un bundle de javascript)
+Que pasa cuando uso lazy loading? (se crean varios bundles)
+
+NextJs
+
+Diferencias entre Next y React
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

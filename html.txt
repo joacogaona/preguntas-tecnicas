@@ -1,0 +1,24 @@
+HTML
+
+Qué es un atributo?
+Qué es una web semantica?
+Cómo funciona un form? (que elementos lo componen y cómo se submitea la información)
+
+<div>Hola</div><div>Joaco</div>
+¿Cómo se imprime esto, uno debajo del otro o uno al costado del otro? (uno debajo del otro por la propiedad bloque del div)
+Como hago para ponerlo uno al costado del otro, aparte de con flexbox. Se puede hacer con css, se puede hacer con javascript.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

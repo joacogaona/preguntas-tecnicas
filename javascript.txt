@@ -1,0 +1,19 @@
+Javascript
+
+Diferencias entre var, let y const? Por qué se puede agregar o quitar información a un objeto declarado con const pero no se puede reasignar esa variable const a un string?
+Que es y para qué sirve spread? Se puede usar spread en objetos?
+Explicar para que se utilizan los principales métodos de arrays (foreach, map, filter, reduce) 
+Javascript es sincrónico o asincrónico y cómo maneja el asincronismo? (Es sincrónico y lo maneja con promesas y el event loop)
+Qué es el event loop?
+Que es una promesa y que estados tiene? Cómo se manejan? (async/await, .then , callback)
+Que es un callback y donde los utilizo? 
+Diferencia entre localstorage y sessionstorage?
+Qué es una función pura?
+Qué es un closure?
+Cuál es la diferencia entre objetos y datos nativos?
+Que es el DOM?
+Que son las arrow functions y que diferencia tiene con una función normal?
+Javascript es single thread?
+
+
+

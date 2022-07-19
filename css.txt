@@ -1,0 +1,31 @@
+
+CSS
+
+Diferencias entre flexbox y grid
+Como aplicar un estilo a solo los divs hijos de un container? (.container > div )
+Como implementaria un darkmode y lightmode a traves del click de un boton en toda una aplicación?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

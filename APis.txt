@@ -1,0 +1,32 @@
+Conexión con Backend (APIs)
+
+Qué métodos Http existen?
+Cuáles son las buenas prácticas para definir rutas de api rest? ( /users/:id)
+Como hacer un login, donde pasar el token de forma segura? Explicar el flujo
+Como hago para armar una ruta que elimina muchos usuarios? (deberia ser un post que reciba en req.body un arreglo de ids)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

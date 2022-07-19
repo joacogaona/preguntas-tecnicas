@@ -1,0 +1,32 @@
+Github
+
+Como es tu flujo de trabajo con github (crear rama, commits, push, review, merge)
+Usaste merge o rebase, para que sirven?
+Usaste cherry pick y para que sirve?
+Hiciste code reviews?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
