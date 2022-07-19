@@ -9,7 +9,7 @@ Cómo funciona un form? (que elementos lo componen y cómo se submitea la inform
 Como hago para ponerlo uno al costado del otro, aparte de con flexbox. Se puede hacer con css, se puede hacer con javascript.
 
 
-
+Probando
 
 
 
