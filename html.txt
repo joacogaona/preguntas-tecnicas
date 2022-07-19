@@ -11,7 +11,7 @@ Como hago para ponerlo uno al costado del otro, aparte de con flexbox. Se puede 
 
 
 
-
+prueba
 
 
 
